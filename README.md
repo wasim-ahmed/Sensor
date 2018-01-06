@@ -1,5 +1,8 @@
 # Sensor
 
+Requirement: libi2c-dev for SMBUS support
+
+
 Compilation :
 
 g++ -c bmp180.c
