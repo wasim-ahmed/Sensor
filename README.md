@@ -1,5 +1,7 @@
 # Sensor
 
+This project retreives data on i2c from BMP180 sensor & update the readings to remote MYSQL Server 
+
 Requirement: libi2c-dev for SMBUS support
 
 
